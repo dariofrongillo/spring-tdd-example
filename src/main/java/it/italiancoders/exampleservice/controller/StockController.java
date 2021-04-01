@@ -1,4 +1,4 @@
-package it.italiancoders.exampleservice.stock;
+package it.italiancoders.exampleservice.controller;
 
 import it.italiancoders.exampleservice.model.StockProduct;
 import it.italiancoders.exampleservice.service.ProductService;
