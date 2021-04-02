@@ -1,4 +1,4 @@
-package it.italiancoders.exampleservice.dao;
+package it.italiancoders.exampleservice.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
